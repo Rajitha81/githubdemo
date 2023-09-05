@@ -1,0 +1,53 @@
+What is github?
+
+GitHub is a highly used software that is typically used for version control.
+ It is helpful when more than just one person is working on a project. Say for example, a software developer team wants to build a website and everyone has to update their codes simultaneously while working on the project. In this case, Github helps them to build a centralized repository where everyone can upload, edit, and manage the code files.
+                          |--person1
+               GitHub:-git|--person2
+                          |--person3
+
+
+
+[4:24 PM, 9/5/2023] RajithaReddy😍: e.CREATE NEW PROJECT IN GIT LAB IGIT-
+
+1.create text document folder for learning. (open that we can write something there).
+
+2.next we will intialize empty git repository
+
+command: git init
+
+3.set https or ssh path
+
+command https: git remote add origin https://gitlab.com/Akhilesh01/testforgit.git ssh :git remote add origin git@gitlab.com: Akhileshel/test forgit.git(it is usedfor security)
+
+4.set username and email id
+
+git config user.email "akhilesh.mc4@gmail.com"
+
+git config user.name "Akhilesh81"
+
+5.git status (in which branch we are)
+
+6.git add. (it is for add)
+
+7.git commit -m "any msg" (we are saving data in this name)
+
+8.git push -uf origin master. (master is a branch name).
+
+.
+[4:25 PM, 9/5/2023] RajithaReddy😍: 7.git commit -m "any msg" (we are saving data in this name).
+
+8.git push -uf origin master. (master is a branch name).
+
+9.CHECK in git lab git repository
+
+10. HOW TO CREATE A BRANCH (master or main is default branch).
+
+command:create branch (branch_name)
+
+ex: create branch text
+
+11.HOW TO CHECKOUT A BRANCH or change (switch) branch. command git checkout (branch_name)
+
+ex:-git checkout raji
+
